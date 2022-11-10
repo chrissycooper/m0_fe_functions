@@ -39,7 +39,7 @@ function makeFreshPesto() {
 
 makeFreshPesto();
 
-//similarly, here I bumped down the second semicolon so its easy to see where the fcn ends. I added a space after the parentheses and completed the word function from "func"
+//Similarly, here I bumped down the second semicolon so its easy to see where the fcn ends. I added a space after the parentheses and completed the word function from "func"
 
 
 //  EX 4:
@@ -50,4 +50,4 @@ var sum = num1 + num2;
   console.log(`the average is: ${average}.`);
 }
 
-//somemore bracket arranging, this time at the top as well as the bottom,and added a semicolon. Then I noticed the function name is clipped in the code block and the console.log, so I edited it to match. Then I ran it, and found an error that was pointing to the last parenthesis in the console.log. But, that looked okay. That's when I noticed the period was outside of the backtick. I moved it, and ran the code, and then it looked good!
+//Some more bracket arranging, this time at the top as well as the bottom,and added a semicolon. Then I noticed the function name is clipped in the code block and the console.log, so I edited it to match. Then I ran it, and found an error that was pointing to the last parenthesis in the console.log. But, that looked okay. That's when I noticed the period was outside of the backtick. I moved it, and ran the code, and then it looked good!
